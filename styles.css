@@ -1,0 +1,59 @@
+.images{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border-style: inset;
+}
+.giphy1{
+	position: relative;
+	
+}
+.Division{
+	width: 100%;
+	height: 660px;
+	background-color: white;
+}
+body{
+	font-family: verdana;
+
+
+}
+h1{
+	text-align: center;
+	font-family: Sacramento,Brush Script MT;
+    font-size: 60px;
+	color: #e7a4e4;
+	    display: inline-block;
+	    position: relative;
+	    bottom: 150px;
+	    left:10px;
+
+}
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.intro p{
+	color: #427abff0;
+    font-family: sacramento;
+    font-size: -webkit-xxx-large;
+    position:relative;
+ 
+    display: inline-block; 
+
+}
+.intro{
+text-align: center;
+
+font-family: cursive;
+font size: ;
+}
